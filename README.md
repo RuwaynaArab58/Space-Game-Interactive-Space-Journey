@@ -8,6 +8,7 @@ The player controls a space journey while exploring different scenes and avoidin
 
 The project focuses on creating an interactive graphical experience using computer graphics concepts.
 
+
 Game Features
 
 - An introductory scene showing Earth.
@@ -18,8 +19,8 @@ Game Features
 - A Game Over screen when the player hits an asteroid.
 - A You Win screen when the player successfully reaches the Moon.
 
-Technologies Used
 
+Technologies Used
 - C++
 - OpenGL
 - GLUT
